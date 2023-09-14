@@ -1,0 +1,26 @@
+C:\Users\howto\source\repos\MacEwan Auto-scheduler\MacEwan Auto-scheduler\bin\Debug\selenium-manager\linux\selenium-manager
+C:\Users\howto\source\repos\MacEwan Auto-scheduler\MacEwan Auto-scheduler\bin\Debug\selenium-manager\macos\selenium-manager
+C:\Users\howto\source\repos\MacEwan Auto-scheduler\MacEwan Auto-scheduler\bin\Debug\selenium-manager\windows\selenium-manager.exe
+C:\Users\howto\source\repos\MacEwan Auto-scheduler\MacEwan Auto-scheduler\bin\Debug\MacEwan Auto-scheduler.exe.config
+C:\Users\howto\source\repos\MacEwan Auto-scheduler\MacEwan Auto-scheduler\bin\Debug\MacEwan Auto-scheduler.exe
+C:\Users\howto\source\repos\MacEwan Auto-scheduler\MacEwan Auto-scheduler\bin\Debug\MacEwan Auto-scheduler.pdb
+C:\Users\howto\source\repos\MacEwan Auto-scheduler\MacEwan Auto-scheduler\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\howto\source\repos\MacEwan Auto-scheduler\MacEwan Auto-scheduler\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\howto\source\repos\MacEwan Auto-scheduler\MacEwan Auto-scheduler\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\howto\source\repos\MacEwan Auto-scheduler\MacEwan Auto-scheduler\bin\Debug\Newtonsoft.Json.dll
+C:\Users\howto\source\repos\MacEwan Auto-scheduler\MacEwan Auto-scheduler\bin\Debug\System.Drawing.Common.dll
+C:\Users\howto\source\repos\MacEwan Auto-scheduler\MacEwan Auto-scheduler\bin\Debug\WebDriver.dll
+C:\Users\howto\source\repos\MacEwan Auto-scheduler\MacEwan Auto-scheduler\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\howto\source\repos\MacEwan Auto-scheduler\MacEwan Auto-scheduler\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\howto\source\repos\MacEwan Auto-scheduler\MacEwan Auto-scheduler\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\howto\source\repos\MacEwan Auto-scheduler\MacEwan Auto-scheduler\bin\Debug\Newtonsoft.Json.xml
+C:\Users\howto\source\repos\MacEwan Auto-scheduler\MacEwan Auto-scheduler\bin\Debug\System.Drawing.Common.xml
+C:\Users\howto\source\repos\MacEwan Auto-scheduler\MacEwan Auto-scheduler\obj\Debug\MacEwan Auto-scheduler.csproj.AssemblyReference.cache
+C:\Users\howto\source\repos\MacEwan Auto-scheduler\MacEwan Auto-scheduler\obj\Debug\MacEwan Auto-scheduler.csproj.SuggestedBindingRedirects.cache
+C:\Users\howto\source\repos\MacEwan Auto-scheduler\MacEwan Auto-scheduler\obj\Debug\MacEwan_Auto_scheduler.Form1.resources
+C:\Users\howto\source\repos\MacEwan Auto-scheduler\MacEwan Auto-scheduler\obj\Debug\MacEwan_Auto_scheduler.Properties.Resources.resources
+C:\Users\howto\source\repos\MacEwan Auto-scheduler\MacEwan Auto-scheduler\obj\Debug\MacEwan Auto-scheduler.csproj.GenerateResource.cache
+C:\Users\howto\source\repos\MacEwan Auto-scheduler\MacEwan Auto-scheduler\obj\Debug\MacEwan Auto-scheduler.csproj.CoreCompileInputs.cache
+C:\Users\howto\source\repos\MacEwan Auto-scheduler\MacEwan Auto-scheduler\obj\Debug\MacEwan Auto-scheduler.csproj.CopyComplete
+C:\Users\howto\source\repos\MacEwan Auto-scheduler\MacEwan Auto-scheduler\obj\Debug\MacEwan Auto-scheduler.exe
+C:\Users\howto\source\repos\MacEwan Auto-scheduler\MacEwan Auto-scheduler\obj\Debug\MacEwan Auto-scheduler.pdb
